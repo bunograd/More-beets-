@@ -1,0 +1,8 @@
+{
+  "pack": {
+    "min_format": [4, 0],
+    "max_format": [121, 0],
+    "pack_format": 4,
+    "description": "More beets, nothing more"
+  }
+}
